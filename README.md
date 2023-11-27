@@ -10,7 +10,9 @@
 
 친구를 사귀고 함께 플레이리스트를 만들어 나가 보세요
 
-![/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png](https://lab.ssafy.com/s09-final/S09P31A603/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png
+![image](https://github.com/peachez-z/TUNEMATE/assets/122859326/1e5b04fc-e7cb-4a07-b454-3f6dc98c9d70)
+
+
 
 ## 💡 주요기능
 
@@ -36,9 +38,10 @@
 - 내 프로필
 
 <p align="center">  
-<img src="/uploads/09225bab11f03f692ea7bee5bb29cfbb/KakaoTalk_20231120_151933572.png"  width="200" height="400"/>
-<img src="/uploads/318f4f4a953039c4cc7a8a39fb444cb9/KakaoTalk_20231120_151955626.png"  width="200" height="400"/>
-<img src="/uploads/edf4b2583f63aafb5f2c9db002d75eac/KakaoTalk_20231120_152010120.png"  width="200" height="400"/>
+
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/4b5dc1c9-10d2-424c-8805-887d36bd087b"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/27114c45-47e0-459a-b6a8-961f3303ea02"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/c5c37356-3bf1-40e5-a67e-ad0e39646ecd"  width="200" height="400"/>
 </p>
 
 ---
@@ -48,9 +51,9 @@
 - 곡 추가
 - 플레이리스트 순서 변경
 <p align="center">  
-<img src="/uploads/d4998969c6225ea890d9634de23b4ac8/KakaoTalk_20231120_152027611.png"  width="200" height="400"/>
-<img src="/uploads/168b6891f32606bff37bc5ba9c9f7e94/KakaoTalk_20231120_152049220.png"  width="200" height="400"/>
-<img src="/uploads/4f01998ba5c87ef4bd8f5bee07e7bf88/KakaoTalk_20231120_152123131.png"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/c31d2dd5-8995-439a-9bbf-31ef28e23ecc"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/8e6db16c-fc7d-47ac-8ece-c06168932c57"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/3763a7d7-cd4d-4450-a44b-61dd1c3fac3c"  width="200" height="400"/>
 
 </p>
 
@@ -61,9 +64,9 @@
 - 친구 추천 화면
 - 공고 모집 목록
 <p align="center">
-<img src="/uploads/5d23dcc409e711f161a7799122010e1d/KakaoTalk_20231120_152152304.png"  width="200" height="400"/>
-<img src="/uploads/5b45ca072c7c03e9c0b88a2bba5fa352/KakaoTalk_20231120_152215791.png"  width="200" height="400"/>
-<img src="/uploads/a5cffd3b3c87571e71c5be7e1fefa65c/Architecture.png"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/11c7f547-61e5-424f-af1c-2ca5505a356a"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/cb29a504-ddb9-4772-ac73-a21f7a409dc8"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/160d8bb6-d0bc-44fc-8491-51c17aadf0f9"  width="200" height="400"/>
 </p>
 
 ---
@@ -74,10 +77,10 @@
 - 플레이리스트 화면
 - 플레이리스트 화면 2
 <p align="center">
-<img src="/uploads/372c891f4bdfaf0dec7ae74a74813c59/KakaoTalk_20231120_152246967.png"  width="200" height="400"/>
-<img src="/uploads/28fd622d9bdeced0ead61c3dedd4cada/KakaoTalk_20231120_152303063.png"  width="200" height="400"/>
-<img src="/uploads/b994867abdd4b33d41637acdedb84fe9/KakaoTalk_20231120_152317391.png"  width="200" height="400"/>
-<img src="/uploads/2d53c3f47082855fba542683401b7ecf/KakaoTalk_20231120_152339130.png"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/96e8af92-a4c5-4ffe-9b53-eab72bb33764"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/cf27b408-ce8e-4a4d-a8f9-01af760b37c1"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/2bb83717-5303-439e-84cd-7cc15333686e"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/ce4f2b00-8a94-4bf3-b7f9-bef716665fec"  width="200" height="400"/>
 </p>
 
 ---
@@ -88,9 +91,9 @@
 - 공동 플레이리스트 곡 추가(유저 2)
 
 <p align="center">
-<img src="/uploads/8ccb68796f0d306df4ef5f0bf55bc784/채팅2.gif"  width="200" height="400"/>
-<img src="/uploads/16b7de3819b281d3215d1f2a60256451/공동플리1곡추가.gif"  width="200" height="400"/>
-<img src="/uploads/79f2d4d234a369e3a4e9357d8d488a95/공동플리2곡추가.gif"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/eb341407-15a9-4367-af91-9bd1f8f0aee8"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/1163a748-a016-4b9d-9739-95651c89d066"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/1a487531-9e06-41bb-8873-eb2c47b53d3f"  width="200" height="400"/>
 
 </p>
 
@@ -101,8 +104,8 @@
 - 공동 플레이리스트 곡 위치 변경(유저 2)
 
 <p align="center">
-<img src="/uploads/429e056b8e8f23ddf76d8a4a253a507f/공동플리1곡위치변경.gif"  width="200" height="400"/>
-<img src="/uploads/761c020b28ab0a627312bacd4edd8e86/공동플리2곡위치변경.gif"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/b93dd230-51f5-4f37-b286-8828552ab24c"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/676fa5f8-4713-48ae-9d93-854672f700db"  width="200" height="400"/>
 
 </p>
 
@@ -113,15 +116,14 @@
 - 공동 플레이리스트 곡 삭제(유저 2)
 
 <p align="center">
-<img src="/uploads/c463220d9bcc7d776b0799220651c4c7/공동플리1곡삭제.gif"  width="200" height="400"/>
-<img src="/uploads/16bf320e249aa2c88237ba50c8cbb49c/공동플리2곡삭제.gif"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/1e8fa33f-bebd-45fd-a1b9-cc1fa929a8a7"  width="200" height="400"/>
+<img src="https://github.com/peachez-z/TUNEMATE/assets/122859326/d0e94af4-017d-499e-84ef-d1607be69e11"  width="200" height="400"/>
 
 </p>
 
 
 ## 🐳 아키텍처
-
-![Architecture](/uploads/d75e66e5ae9c438314ddd03f7fe2f006/Architecture.png)
+![Architecture](https://github.com/peachez-z/TUNEMATE/assets/122859326/0ff4925d-8e4a-446e-bd3e-05eff9379abb)
 
 ## 🛠️ 기술스택
 
@@ -180,6 +182,6 @@
 2023.10.10(화) ~ 2023.11.17(금) (6주간 진행)
 
 ## 👨‍💻 팀원 소개
+![image](https://github.com/peachez-z/TUNEMATE/assets/122859326/ec325498-e61d-489a-8b48-6d3c20e22a1a)
+![image](https://github.com/peachez-z/TUNEMATE/assets/122859326/5ac753d3-c007-4115-ae26-b9693f68f567)
 
-![image](/uploads/a10a32cf6b48dafaa84ead1a1b0310c4/image.png)
-![image](/uploads/53ac98bc0062883b649ed000f4216774/image.png)
