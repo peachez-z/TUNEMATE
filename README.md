@@ -10,7 +10,7 @@
 
 친구를 사귀고 함께 플레이리스트를 만들어 나가 보세요
 
-![TuneMate_](/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png)
+![TuneMate_]([/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png](https://lab.ssafy.com/s09-final/S09P31A603/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png))
 
 ## 💡 주요기능
 
